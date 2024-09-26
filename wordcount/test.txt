@@ -1,0 +1,6 @@
+Bus Car bus
+car car
+bus car train
+bus TRAIN BUS
+buS caR
+BUS TRAIN

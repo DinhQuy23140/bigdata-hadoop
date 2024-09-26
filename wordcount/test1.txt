@@ -1,0 +1,6 @@
+Bus Car bus
+car train taxi Taxi
+car train Taxi taxi
+bus TRAIN BUS
+buS caR CAR taxi
+car BUS TRAIN
